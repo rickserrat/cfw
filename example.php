@@ -1,5 +1,5 @@
 <?php
-    $json = file_get_contents("cw.json");
+    $json = file_get_contents("cfw.json");
 
     $obj = json_decode($json);
 
