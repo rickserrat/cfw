@@ -1,0 +1,23 @@
+{
+    "name": "rickserrat/cfw",
+    "description": "CFW",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Henrique Serrat Guimarães",
+            "email": "contato@henriqueserrat.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "scripts": {
+        "test": [
+            "parallel-lint . --exclude vendor",
+            "phpunit"
+        ]
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
