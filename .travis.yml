@@ -9,3 +9,4 @@ matrix:
       dist: bionic
     - php: 7.4
       dist: bionic
+script: composer test
