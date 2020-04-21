@@ -2,7 +2,7 @@
 
 Criei esse json da convisão de fé de westminster durante a quarentena do COVID.
  
-O arquivo `example.php` fiz um exemplo consumindo o arquivo de maneira bem simples.
+Fiz um exemplo consumindo o arquivo de maneira bem simples basta acessa a branche php-boostrap-example.
  
 Você pode usar esse json para criar um api por exemplo.
  
