@@ -1,6 +1,6 @@
 ## Confissão de Fé de Westminster (1643–46)
 
-Criei esse json da convisão de fé de westminster durante a quarentena do COVID.
+Criei esse json da confisão de fé de westminster durante a quarentena do COVID.
  
 O arquivo `example.php` fiz um exemplo consumindo o arquivo de maneira bem simples.
  
