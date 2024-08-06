@@ -5,6 +5,7 @@
 
     $books = $obj->cfw->books;
     $chapters = $obj->cfw->chapters;
+    $bible = null;
 
     echo '<h1>' . $obj->cfw->title . '</h1>';
     echo '<h1>' . $obj->cfw->description . '</h1>';
@@ -21,6 +22,7 @@
             }
             else {
                 foreach ($books as $book) {
+		    echo '<h1>' .$bible . '</h1>';
                     $bible .= '<h3>' . $book->title . '</h3>';
                     $bible .= '<p>';
 
